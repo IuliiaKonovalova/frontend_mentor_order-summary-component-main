@@ -36,7 +36,7 @@ body {
   justify-content: center;
   align-items: center;
   font-family: var(--ff-primary);
-  background: var(--clr-primary--300) url(../images/pattern-background-desktop.svg) no-repeat top center;
+  background: var(--clr-primary--300) url(../images/pattern-background-desktop.svg) top / contain no-repeat;
 }
 
 .container {
@@ -50,6 +50,8 @@ body {
 
 img {
   border-radius: var(--br) var(--br) 0 0;
+  display: block;
+  width: 100%;
 }
 
 .content {
