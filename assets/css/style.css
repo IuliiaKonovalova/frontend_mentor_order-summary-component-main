@@ -8,6 +8,7 @@
   --clr-neutral--900: hsl(223, 47%, 23%);
   --ff-primary: 'Red Hat Display';
   --br: 1em;
+  --br-elements: 0.5em;
 }
 
 /*------ Global Settings------*/
@@ -52,15 +53,19 @@ img {
 }
 
 .content {
+  justify-self: center;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: space-around;
   text-align: center;
+
 }
 
 .title {
   font-weight: 900;
+  color: var(--clr-neutral--900);
+  padding-top: 1rem;
 }
 
 .incentive {
@@ -69,11 +74,39 @@ img {
   align-items: center;
   justify-content: space-around;
   text-align: center;
-
+  color: var(--clr-neutral--300);
   width: 25vw;
   font-size: 1rem;
 }
 
+.order__options {
+  background-color: var(--clr-neutral--100);
+  width: 100%;
+  display: grid;
+  grid-template-columns: 1fr 2.5fr 1fr;
+  padding: 1rem;
+  border-radius: var(--br-elements);
+
+}
+
+.option__icon {
+  align-self: center;
+  justify-self: center;
+}
+
 .btn {
-  background-color: burlywood;
+  padding: 1rem;
+  font-weight: 700;
+  width: 100%;
+
+  border-radius: var(--br-elements);
+}
+
+.btn--confirm {
+  background-color: var(--clr-primary--900);
+  color: var(--clr-primary--300)
+}
+
+.btn--cancel {
+  margin-bottom: 2rem;
 }
