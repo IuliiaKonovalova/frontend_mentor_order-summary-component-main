@@ -1,3 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Display:wght@500;700;900&display=swap');
+
+:root {
+  --clr-primary--300: hsl(225, 100%, 94%);
+  --clr-primary--900: hsl(245, 75%, 52%);
+  --clr-neutral--100: hsl(225, 100%, 98%);
+  --clr-neutral--300: hsl(224, 23%, 55%);
+  --clr-neutral--900: hsl(223, 47%, 23%);
+  --ff-primary: 'Red Hat Display';
+  --br: 1em;
+}
+
 /*------ Global Settings------*/
 
 *,
