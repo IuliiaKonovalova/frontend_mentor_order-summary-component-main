@@ -27,3 +27,53 @@ p {
   margin: 0;
   padding: 0;
 }
+
+body {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: var(--ff-primary);
+  background: var(--clr-primary--300) url(../images/pattern-background-desktop.svg) no-repeat top center;
+}
+
+.container {
+  height: 65vh;
+  min-width: 30vw;
+  background-color: white;
+  border-radius: var(--br);
+  display: grid;
+  grid-template-rows: 1fr 2fr;
+}
+
+img {
+  border-radius: var(--br) var(--br) 0 0;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+  text-align: center;
+}
+
+.title {
+  font-weight: 900;
+}
+
+.incentive {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+  text-align: center;
+
+  width: 25vw;
+  font-size: 1rem;
+}
+
+.btn {
+  background-color: burlywood;
+}
