@@ -84,6 +84,7 @@ img {
   width: 100%;
   display: grid;
   grid-template-columns: 1fr 2.5fr 1fr;
+  gap: 0.5rem;
   padding: 1rem;
   border-radius: var(--br-elements);
 
@@ -94,11 +95,27 @@ img {
   justify-self: center;
 }
 
+.option__descriptions {
+  justify-self: start;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.option__title {
+  color: var(--clr-neutral--900);
+  font-weight: 900;
+}
+
+.option__price {
+  color: var(--clr-neutral--300);
+}
+
 .btn {
   padding: 1rem;
   font-weight: 700;
   width: 100%;
-
+  border: none;
   border-radius: var(--br-elements);
 }
 
