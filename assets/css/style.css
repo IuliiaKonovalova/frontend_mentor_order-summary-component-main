@@ -107,7 +107,7 @@ img {
   grid-template-columns: 1fr 2.5fr 1fr;
   font-size: 2vh;
   border-radius: var(--br-elements);
-  padding: 2rem;
+  padding: 1.5rem;
 
 }
 
@@ -141,6 +141,8 @@ img {
   text-decoration: underline;
   justify-self: center;
   align-self: center;
+  font-size: 1.7vh;
+  font-weight: 700;
 
 }
 
