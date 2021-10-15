@@ -192,3 +192,24 @@ img {
 .btn--cancel:hover {
   color: var(--clr-neutral--900);
 }
+
+/*--Styling Credits--*/
+
+.attribution {
+  position: absolute;
+  bottom: 5vh;
+  font-size: 2vh;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+.attribution>div {
+  padding-top: 1vh;
+  letter-spacing: 0.1rem;
+}
+
+.attribution>div a {
+  color: hsl(228, 45%, 44%);
+  /* text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.5); */
+}
