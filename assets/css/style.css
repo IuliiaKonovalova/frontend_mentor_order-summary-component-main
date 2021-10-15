@@ -42,7 +42,6 @@ body {
 
 .container {
   width: 40rem;
-  /* min-width: 30vw; */
   background-color: white;
   border-radius: var(--br);
   display: grid;
@@ -172,7 +171,6 @@ img {
 
 .btn--confirm {
   background-color: var(--clr-primary--900);
-  /* border: var(--clr-primary--900); */
   color: white;
   box-shadow: 3px 5px 15px 3px hsla(245, 75%, 52%, 0.582);
   z-index: 2;
@@ -183,7 +181,6 @@ img {
 }
 
 .btn--cancel {
-  /* margin-bottom: 2rem; */
   color: var(--clr-neutral--300);
   background-color: white;
   z-index: 1;
@@ -211,5 +208,4 @@ img {
 
 .attribution>div a {
   color: hsl(228, 45%, 44%);
-  /* text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.5); */
 }
