@@ -41,7 +41,7 @@ body {
 }
 
 .container {
-  width: 35rem;
+  width: 40rem;
   /* min-width: 30vw; */
   background-color: white;
   border-radius: var(--br);
@@ -52,11 +52,11 @@ body {
 
 .image__top {
   grid-row: 1/2;
-  width: 35rem;
+  width: 40rem;
 }
 
 .image {
-  width: 35rem;
+  width: 40rem;
 }
 
 img {
@@ -68,7 +68,7 @@ img {
 
 .content {
   grid-row: 2/3;
-  width: 35rem;
+  width: 40rem;
   display: grid;
   grid-template-rows: repeat(4, 0.25fr);
   gap: 2vh;
