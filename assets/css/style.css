@@ -30,6 +30,8 @@ p {
   padding: 0;
 }
 
+/*--Styling Body, Background--*/
+
 body {
   min-height: 100vh;
   display: flex;
@@ -39,6 +41,8 @@ body {
   font-family: var(--ff-primary);
   background: var(--clr-primary--300) url(../images/pattern-background-desktop.svg) top / contain no-repeat;
 }
+
+/*--Styling Credits--*/
 
 .container {
   width: 40rem;
@@ -54,9 +58,9 @@ body {
   width: 40rem;
 }
 
-.image {
+/* .image {
   width: 40rem;
-}
+} */
 
 img {
   border-radius: var(--br) var(--br) 0 0;
@@ -70,7 +74,7 @@ img {
   width: 40rem;
   display: grid;
   grid-template-rows: repeat(4, 0.25fr);
-  gap: 2vh;
+  gap: 2rem;
 }
 
 .title {
@@ -79,8 +83,8 @@ img {
   align-self: center;
   font-weight: 900;
   color: var(--clr-neutral--900);
-  padding-top: 5vh;
-  font-size: 3vh;
+  padding-top: 4rem;
+  font-size: 2.5rem;
 }
 
 .incentive {
@@ -94,7 +98,7 @@ img {
   text-align: center;
   color: var(--clr-neutral--300);
   width: 70%;
-  font-size: 1.7vh;
+  font-size: 1.5rem;
 }
 
 .order__options {
@@ -105,7 +109,7 @@ img {
   width: 80%;
   display: grid;
   grid-template-columns: 1fr 2.5fr 1fr;
-  font-size: 2vh;
+  font-size: 1.5rem;
   border-radius: var(--br-elements);
   padding: 1.5rem;
 
@@ -123,13 +127,12 @@ img {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  font-size: 2vh;
+  font-size: 1.5rem;
 }
 
 .option__title {
   color: var(--clr-neutral--900);
   font-weight: 900;
-  font-size: 2vh;
 }
 
 .option__price {
@@ -141,7 +144,6 @@ img {
   text-decoration: underline;
   justify-self: center;
   align-self: center;
-  font-size: 1.7vh;
   font-weight: 700;
 }
 
@@ -165,7 +167,7 @@ img {
   letter-spacing: 0.1rem;
   border: none;
   border-radius: var(--br-elements);
-  font-size: 1.7vh;
+  font-size: 1.3rem;
   margin-bottom: 1rem;
 }
 
@@ -194,7 +196,7 @@ img {
 
 .attribution {
   position: absolute;
-  bottom: 5vh;
+  bottom: 3vh;
   font-size: 2vh;
   display: flex;
   flex-direction: column;
