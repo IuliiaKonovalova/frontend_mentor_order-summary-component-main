@@ -2,6 +2,7 @@
 
 :root {
   --clr-primary--300: hsl(225, 100%, 94%);
+  --clr-primary--500: #766cf1;
   --clr-primary--900: hsl(245, 75%, 52%);
   --clr-neutral--100: hsl(225, 100%, 98%);
   --clr-neutral--300: hsl(224, 23%, 55%);
@@ -143,7 +144,11 @@ img {
   align-self: center;
   font-size: 1.7vh;
   font-weight: 700;
+}
 
+.option__change:hover {
+  color: var(--clr-primary--500);
+  text-decoration: none;
 }
 
 .btns {
@@ -173,9 +178,17 @@ img {
   z-index: 2;
 }
 
+.btn--confirm:hover {
+  background-color: var(--clr-primary--500);
+}
+
 .btn--cancel {
   /* margin-bottom: 2rem; */
   color: var(--clr-neutral--300);
   background-color: white;
   z-index: 1;
+}
+
+.btn--cancel:hover {
+  color: var(--clr-neutral--900);
 }
