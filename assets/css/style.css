@@ -45,7 +45,7 @@ body {
 /*--Styling Credits--*/
 
 .container {
-  width: 40rem;
+  width: 30rem;
   background-color: white;
   border-radius: var(--br);
   display: grid;
@@ -55,12 +55,8 @@ body {
 
 .image__top {
   grid-row: 1/2;
-  width: 40rem;
+  width: 30rem;
 }
-
-/* .image {
-  width: 40rem;
-} */
 
 img {
   border-radius: var(--br) var(--br) 0 0;
@@ -71,20 +67,21 @@ img {
 
 .content {
   grid-row: 2/3;
-  width: 40rem;
+  width: 30rem;
   display: grid;
-  grid-template-rows: repeat(4, 0.25fr);
-  gap: 2rem;
+
+  grid-template-rows: 1fr 1fr 1fr 1.5fr;
+  gap: 1rem;
 }
 
 .title {
   grid-row: 1/2;
   justify-self: center;
-  align-self: center;
+  align-self: end;
   font-weight: 900;
   color: var(--clr-neutral--900);
-  padding-top: 4rem;
-  font-size: 2.5rem;
+  /* padding-top: 2rem; */
+  font-size: 2rem;
 }
 
 .incentive {
@@ -98,7 +95,7 @@ img {
   text-align: center;
   color: var(--clr-neutral--300);
   width: 70%;
-  font-size: 1.5rem;
+  font-size: 1.2rem;
 }
 
 .order__options {
@@ -109,9 +106,9 @@ img {
   width: 80%;
   display: grid;
   grid-template-columns: 1fr 2.5fr 1fr;
-  font-size: 1.5rem;
+  font-size: 1.2rem;
   border-radius: var(--br-elements);
-  padding: 1.5rem;
+  padding: 1.2rem;
 
 }
 
@@ -127,7 +124,6 @@ img {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  font-size: 1.5rem;
 }
 
 .option__title {
@@ -153,22 +149,23 @@ img {
 }
 
 .btns {
+  grid-row: 4/5;
   justify-self: center;
-  align-self: center;
+  align-self: start;
   width: 80%;
   display: flex;
   flex-direction: column;
 }
 
 .btn {
-  grid-row: 4/5;
-  padding: 1.5rem;
+
+  padding: 1rem;
   font-weight: 900;
   letter-spacing: 0.1rem;
   border: none;
   border-radius: var(--br-elements);
-  font-size: 1.3rem;
-  margin-bottom: 1rem;
+  font-size: 1.2rem;
+  /* margin-bottom: 1rem; */
 }
 
 .btn--confirm {
