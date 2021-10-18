@@ -31,3 +31,19 @@ I have also added various breakpoints in order to provide the best user experien
 The solution to this challenge can be accessed by this [link](https://iuliiakonovalova.github.io/frontend_mentor_order-summary-component-main/)
 
 ![Responsive Mockup](documentation/responsive_mockup.png)
+
+
+---
+## User Stories
+
+### First Time Visitor Goals:
+
+* As a First Time Visitor, I want to easily understand the main purpose of the web page, so I can learn more about this web page.
+* As a First Time Visitor, I want to be able to easily navigate through the web page, so I can find the content.
+* As a First Time Visitor, I want to find the web page useful.
+
+### Frequent Visitor Goals:
+* As a Frequent User, I want to see the changes in payment, so I can easily make a choice.
+* As a Frequent User, I want to have different options for payment, so I can make prudent decision about future purchase. 
+
+---
