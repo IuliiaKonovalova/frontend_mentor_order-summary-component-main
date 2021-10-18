@@ -96,3 +96,43 @@ The solution to this challenge can be accessed by this [link](https://iuliiakono
 - [GIMP](https://www.gimp.org/) - was used to make and resize images for the README file.
 
 ---
+
+---
+## Design
+
+- The color scheme and font-family were provided by [Frontend Mentor](https://www.frontendmentor.io).
+
+- Background Colors:
+
+![Background Color](documentation/design/background_color_top.png)
+![Background Color](documentation/design/background_color_bottom.png)
+
+- Card Background Color:
+
+![Cards Background Color](documentation/design/card_background_color.png)
+
+- Options Background Color:
+
+![Options Background Color](documentation/design/options_background_color.png)
+
+- Text Color Main:
+
+![Text Color Main](documentation/design/text_color_main.png)
+
+- Text Color:
+
+![Text Color](documentation/design/text_color.png)
+
+- Accent Text Color:
+
+![Accent Text Color](documentation/design/text_accent_color.png)
+
+- Payment Button Color:
+
+![Payment Button Color](documentation/design/text_color.png)
+
+- Font-family ([Red Hat Display](https://fonts.google.com/specimen/Red+Hat+Display)):
+
+![Font](documentation/design/font_family_rubik.png)
+
+---
