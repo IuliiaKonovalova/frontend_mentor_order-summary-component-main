@@ -45,6 +45,7 @@ body {
 /*--Styling Credits--*/
 
 .container {
+  margin-top: 2vh;
   width: 30rem;
   background-color: white;
   border-radius: var(--br);
