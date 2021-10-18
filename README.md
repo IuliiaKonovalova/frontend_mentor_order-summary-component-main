@@ -129,10 +129,10 @@ The solution to this challenge can be accessed by this [link](https://iuliiakono
 
 - Payment Button Color:
 
-![Payment Button Color](documentation/design/text_color.png)
+![Payment Button Color](documentation/design/payment_button.png)
 
 - Font-family ([Red Hat Display](https://fonts.google.com/specimen/Red+Hat+Display)):
 
-![Font](documentation/design/font_family_rubik.png)
+![Font](documentation/design/font_family.png)
 
 ---
