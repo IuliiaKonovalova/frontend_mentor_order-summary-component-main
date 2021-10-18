@@ -241,3 +241,28 @@ img {
     font-size: 1rem;
   }
 }
+
+@media screen and (max-width: 433px) {
+  .content {
+    gap: 0.5rem;
+    grid-template-rows: 1fr 1fr 1fr 1.25fr;
+  }
+
+  .title {
+    font-size: 1.5rem;
+  }
+
+  .incentive {
+    font-size: 0.8rem;
+  }
+
+  .order__options {
+    font-size: 0.9rem;
+    padding: 0.5rem;
+  }
+
+  .btn {
+    padding: 0.6rem;
+    font-size: 0.9rem;
+  }
+}
