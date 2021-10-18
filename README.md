@@ -50,7 +50,35 @@ The solution to this challenge can be accessed by this [link](https://iuliiakono
 
 ## Features
 
++ ### Main Page
 
+    - Represent: 
+
+        * Order summary card.
+
+    - Consist:
+
+        ![Main Page](documentation/app_features/main_page.png)
+
+        * Has the main card with order summary for the user.
+
+        ![Card](documentation/app_features/card.png)
+
+        * Has order related information: title, incentive to proceed the payment, chosen options and 2 buttons.
+
+        ![Card Content](documentation/app_features/card_content.png)
+
+        * Has icon of a product, title of a plan and the price. It also has "Change" button which has an active state.
+
+        ![Payment Options](documentation/app_features/payment_options.png)
+
+        * Has two buttons: "proceed to payment" and "cancel order", which have active states.
+
+        ![Buttons](documentation/app_features/report_cards.png)
+
+        * Has a link to [Frontend Mentor](https://www.frontendmentor.io) website, which provided all images and required design as well as the link to my github account [Iuliia Konovalova](https://github.com/IuliiaKonovalova)
+
+        ![Credits](documentation/app_features/footer.png)
 
 
 ---
