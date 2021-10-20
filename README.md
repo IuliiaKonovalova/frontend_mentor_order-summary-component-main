@@ -207,3 +207,10 @@ The solution to this challenge can be accessed by this [link](https://iuliiakono
   ![CSS Validator Errors](documentation/validators_testing/validator_css.png)
 
 ---
+
+### Lighthouse Report
+
+![Lighthouse Report](documentation/lighthouse_report.png)
+
+---
+
