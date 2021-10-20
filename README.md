@@ -6,7 +6,7 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 ## The design provided
 
-![Design preview for the Order summary card coding challenge](./design/desktop-preview.jpg)
+![Design preview for the Order summary card coding challenge](documentation/wireframes/desktop-preview.jpg)
 ## Table of contents
 
 - [User Stories](#user-stories)
@@ -254,3 +254,15 @@ In your IDE Terminal, type the following command to clone my repository:
 
   - [Frontend Mentor](https://www.frontendmentor.io) for inspiring to improve my skills.
 
+## Wireframes
+
+- Desktop:
+
+![Design preview for tOrder summary card coding challenge](documentation/wireframes/desktop-design.jpg)
+
+- Mobile:
+
+![Design preview for Order summary card coding challenge](documentation/design/mobile-design.jpg)
+
+- Active States:
+![Active State Design preview for Order summary card coding challenge](documentation/design/mobile-design.jpg)
