@@ -234,3 +234,11 @@ In your IDE Terminal, type the following command to clone my repository:
 
 ---
 
+## Author
+
+- Website - [Iuliia Konovalova](https://github.com/IuliiaKonovalova)
+- Frontend Mentor - [@IuliiaKonovalova](https://www.frontendmentor.io/profile/IuliiaKonovalova)
+
+---
+
+
