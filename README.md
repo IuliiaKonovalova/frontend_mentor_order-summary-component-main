@@ -136,3 +136,33 @@ The solution to this challenge can be accessed by this [link](https://iuliiakono
 ![Font](documentation/design/font_family.png)
 
 ---
+
+
+## Bugs
+
++ **Unsolved bugs**
+
+    - None.
+
+---
+
+## Testing
+
+### Compatibility:
+
++ The app was tested on the following browsers: Chrome, Firefox, Brave, Edge:
+
+  - Chrome:
+
+  ![Main Page](documentation/compatibility/google_browser.png)
+  
+  - Firefox:
+
+  ![Main Page](documentation/compatibility/firefox_browser.png)
+
+  - Brave:
+
+  ![Main Page](documentation/compatibility/brave_browser.png)
+
+---
+
