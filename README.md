@@ -190,3 +190,20 @@ The solution to this challenge can be accessed by this [link](https://iuliiakono
     ![Desktop](documentation/responsiveness/responsiveness_desktop_devices.gif)
 
 + The functionality of the links in the app was checked as well by different users.
+
+---
+### Validator testing
++ #### HTML
+  
+  - No errors or warnings were found when passing through the official [W3C](https://validator.w3.org/) validator.
+  
+    - Main Page:
+  
+    ![Main Page HTML Validator](documentation/validators_testing/validator_html.png)
++ #### CSS
+  
+  - No errors or warnings were found when passing through the official [W3C (Jigsaw)](https://jigsaw.w3.org/css-validator/#validate_by_uri) validator: 
+
+  ![CSS Validator Errors](documentation/validators_testing/validator_css.png)
+
+---
