@@ -250,3 +250,7 @@ In your IDE Terminal, type the following command to clone my repository:
 
 ---
 
+## Acknowledgement
+
+  - [Frontend Mentor](https://www.frontendmentor.io) for inspiring to improve my skills.
+
