@@ -265,4 +265,5 @@ In your IDE Terminal, type the following command to clone my repository:
 ![Design preview for Order summary card coding challenge](documentation/wireframes/mobile-design.jpg)
 
 - Active States:
+
 ![Active State Design preview for Order summary card coding challenge](documentation/wireframes/mobile-design.jpg)
